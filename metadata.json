@@ -1,0 +1,6 @@
+{
+  "name": "The New York Times - Digital Edition & Reader",
+  "description": "An authentic, high-fidelity digital news experience featuring breaking news, editorial journalism, multimedia video dispatch, interactive reading mode, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
